@@ -26,6 +26,8 @@ button.addEventListener('click', event => {
     let myLi = createListItem(getSum())
     spisok.append(myLi)
 })
+
+
 // const imageContainer = document.querySelector('.slider-photo')
 // const nextButton = document.querySelector('.slider__button-next')
 // const backButton = document.querySelector('.slider__button-back')
